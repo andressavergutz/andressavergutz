@@ -8,6 +8,7 @@ My current tools that I'm learning
 ☁️ Cloud services [AWS]
 🛠️ Typescript
 
-
-- 💭 Find me elsewhere
-[LinkedIn](https://www.linkedin.com/in/andressa-vergutz/)
+<div>
+ <p> 💭 Find me elsewhere </p>
+ <a href="https://www.linkedin.com/in/andressa-vergutz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
