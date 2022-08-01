@@ -4,11 +4,11 @@ I'm Ph.D. in Computer Science. Currently, I'm CTO at [HK360](https://heijunka360
 
 <div>
  <p>My current tools that I'm learning </p>
- <menu>
-   <menuitem> 🌎 Front-end Web with ReactJS </menuitem>
-   <menuitem> ☁️ Cloud services [AWS] </menuitem>
-   <menuitem> 🛠️ Typescript </menuitem>
- </menu>
+ <ul>
+   <li> 🌎 Front-end Web with ReactJS </li>
+   <li> ☁️ Cloud services [AWS] </li>
+   <li> 🛠️ Typescript </li>
+ </ul>
  </div>
 
 <div>
