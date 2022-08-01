@@ -3,7 +3,7 @@
 I'm Ph.D. in Computer Science. Currently, I'm CTO at [HK360](https://heijunka360.com/) and very engaged in Easy 360 development! 🚀
 
 <div>
- <p>My current tools that I'm learning </p>
+ <p>Current tools that I'm learning </p>
  <ul>
    <li> 🌎 Front-end Web with ReactJS </li>
    <li> ☁️ Cloud services [AWS] </li>
