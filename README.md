@@ -1,13 +1,12 @@
-### Hi, I'm Andressa  👋
+### Hi, I'm Andressa 👋
 
-I'm Ph.D. in Computer Science. Currently, I'm CTO at [HK360](https://heijunka360.com/) and very engaged in Easy 360 development! 🚀
+Ph.D. in Computer Science
+Founder & CTO at [Easy360](https://www.easy360.ind.br)
 
 <div>
- <p>Current tools that I'm learning </p>
+ <p>What I'm working on 👨‍💻</p>
  <ul>
-   <li> 🌎 Front-end Web with ReactJS </li>
-   <li> ☁️ Cloud services [AWS] </li>
-   <li> 🛠️ Typescript </li>
+   <li> Sales and operations forecasting and planning </li>
  </ul>
  </div>
 
